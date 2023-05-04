@@ -2,7 +2,9 @@ public class Transaction {
     private Date date;
     private String description;
     private String vendor;
-    private double amount;
+    private double amount;;q;q!:;:::;;q!
+
+
 
     private String categories;
     private boolean isDeposit;
